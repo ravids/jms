@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jmsproducer.iml" filepath="$PROJECT_DIR$/jmsproducer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmsproducer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jmsproducer_main.iml" group="jmsproducer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jmsproducer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jmsproducer_test.iml" group="jmsproducer" />
+    </modules>
+  </component>
+</project>
