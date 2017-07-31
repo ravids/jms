@@ -1,0 +1,8 @@
+github proxy
+===
+https://stackoverflow.com/questions/5377703/syncing-with-github/5378094#5378094
+https://stackoverflow.com/questions/20370294/could-not-resolve-host-github-com-error-while-cloning-remote-repository-in-git
+set HTTPS_PROXY=http://webproxy.wlb2.nam.nsroot.net:8080
+
+set HTTP_PROXY=http://webproxy.wlb2.nam.nsroot.net:8080
+
